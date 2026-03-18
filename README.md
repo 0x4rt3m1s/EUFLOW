@@ -34,10 +34,10 @@ Please, fill the following sections about your project.
 Millions of people travel throughout Europe each year, making tourism a significant economic and cultural activity. However, travel patterns vary widely depending on destination popularity, seasonality, transportation options, and travel spending. This project aims to visualize tourism flows, seasonal patterns, transportation options, and travel expenditures across various destinations in order to better understand how Europeans travel within Europe.
 
 We address the following questions:
-Where do Europeans travel, and which destinations are the most popular?
-When do Europeans travel, and how do seasonal patterns differ across destinations?
-How do Europeans travel, and what transport modes shape tourism flows?
-How much do travelers spend, and how does spending relate to trip duration or destination type?
+1. Where do Europeans travel, and which destinations are the most popular?
+2. When do Europeans travel, and how do seasonal patterns differ across destinations?
+3. How do Europeans travel, and what transport modes shape tourism flows?
+4. How much do travelers spend, and how does spending relate to trip duration or destination type?
 
 In addition to the broader European analysis, we will focus on Switzerland to investigate whether the frequency of travel to Switzerland is influenced by economic and geographic factors. We specifically investigate whether visitors to Switzerland are more likely to come from nations that are geographically closer to Switzerland or from nations with greater GDP levels.
 

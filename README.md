@@ -26,10 +26,8 @@ In Hotel Sector:
 
 #### 🧳 Airports and Flights Data
 <a href="https://openflights.org/data">Airports</a>
-<a href="https://github.com/jpatokal/openflights" style="text-decoration:none; color:inherit;">
-  <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="16" style="vertical-align:-3px;">
-  <code>GitHub</code>
-</a>: provided by OpenFlights  
+<code>GitHub</code> 
+<a href="https://github.com/jpatokal/openflights">↗</a>: provided by OpenFlights  
 
 [Flights](https://www.opdi.aero/flight-list-data.html): provided by Open Performance Data Initiative (OPDI) in collaboration with OpenSky Network (OSN)  
 

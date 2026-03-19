@@ -20,8 +20,7 @@ Please, fill the following sections about your project.
 ### Dataset
 
 #### ✈️ Travel Data
-In Hotel Sector:  
-[Visitors from European Countries to Switzerland](https://www.pxweb.bfs.admin.ch/pxweb/en/px-x-1003020000_102/-/px-x-1003020000_102.px/): provided by the Federal Statistical Office (FSO)  
+[Visitors from European Countries to Switzerland (in hotel sector)](https://www.pxweb.bfs.admin.ch/pxweb/en/px-x-1003020000_102/-/px-x-1003020000_102.px/): provided by the Federal Statistical Office (FSO)  
 [Trips of EU residents](https://ec.europa.eu/eurostat/data/database?node_code=tin00193): provided by Eurostat  
 
 #### 🧳 Airports and Flights Data

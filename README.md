@@ -18,6 +18,7 @@ Please, fill the following sections about your project.
 *(max. 2000 characters per section)*
 
 ### Dataset
+---
 
 #### 🧳 Travel Data
 [Visitors from European Countries to Switzerland (in hotel sector)](https://www.pxweb.bfs.admin.ch/pxweb/en/px-x-1003020000_102/-/px-x-1003020000_102.px/): provided by the Federal Statistical Office (FSO)  

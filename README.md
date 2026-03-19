@@ -59,8 +59,7 @@ The target audience for this project includes students and young travelers plann
 ## Exploratory Data Analysis
 
 
-
-Before starting the actual analysis, we had to spend some time cleaning the Eurostat tourism datasets because, in their raw form, they are not very easy to work with. The files contain several dimensions grouped into a single column, while the yearly observations are spread across many separate columns. This format is useful for storage, but not for analysis.
+Before starting the actual analysis, we had to spend some time cleaning the Eurostat tourism datasets because, in their raw form, they are not very easy to work with. The files contain several dimensions grouped into a single column, while the yearly observations are spread across many separate columns. 
 
 To make the data usable, we first split the encoded column into separate variables: the country of residence (`geo`) and, depending on the dataset, the destination country, accommodation type, or trip characteristic. Then, we converted the year columns into numeric values so that calculations and visualizations could be done properly. We also removed columns that were not directly useful for the analysis, such as frequency and unit indicators, and filtered missing values to avoid inconsistencies across countries and years.
 

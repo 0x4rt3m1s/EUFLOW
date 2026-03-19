@@ -19,24 +19,22 @@ Please, fill the following sections about your project.
 
 ### Dataset
 
-#### `✈️ Travel Data`
+#### ✈️ Travel Data
 In Hotel Sector:  
 [Visitors from European Countries to Switzerland](https://www.pxweb.bfs.admin.ch/pxweb/en/px-x-1003020000_102/-/px-x-1003020000_102.px/): provided by the Federal Statistical Office (FSO)  
-[Trips of EU residents](https://ec.europa.eu/eurostat/data/database?node_code=tin00193)(Annual data on trips of EU residents (t_tour_dem)): provided by Eurostat  
+[Trips of EU residents](https://ec.europa.eu/eurostat/data/database?node_code=tin00193): provided by Eurostat  
 
-
-#### `🧳 Airports and Flights Data`
+#### 🧳 Airports and Flights Data
 <a href="https://openflights.org/data">Airports</a>
-<a href="https://github.com/jpatokal/openflights" style="display: inline-flex; align-items: center;">
-  <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="20">
-  <span style="margin-left:6px;">GitHub</span>
+<a href="https://github.com/jpatokal/openflights" style="text-decoration:none; color:inherit;">
+  <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="16" style="vertical-align:-3px;">
+  <code>GitHub</code>
 </a>: provided by OpenFlights  
+
 [Flights](https://www.opdi.aero/flight-list-data.html): provided by Open Performance Data Initiative (OPDI) in collaboration with OpenSky Network (OSN)  
 
-
-#### `🪙 GDP Data`
+#### 🪙 GDP Data
 [Purchasing Power adjusted GDP per capita](https://ec.europa.eu/eurostat/databrowser/view/sdg_10_10/default/table?lang=en): provided by Eurostat  
-
 
 
 

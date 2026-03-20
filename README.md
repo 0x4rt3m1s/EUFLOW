@@ -28,7 +28,7 @@ Additional datasets may be added during further milestones to enrich the scope a
 #### ✈️ Airports and Flights Data
 <a href="https://openflights.org/data">Airports</a>
 <a href="https://github.com/jpatokal/openflights" style="text-decoration:none !important; color:inherit !important;"><code>GitHub</code></a>: the datasets are provided by OpenFlights, including airports, airlines, and routes data    
-[Flights](https://www.opdi.aero/flight-list-data.html): the datasets are provided by Open Performance Data Initiative (OPDI) in collaboration with OpenSky Network (OSN), including monthly flight data (from Jan 2022 to Jan 2026) such as flight IDs, ICAO operators, departure and arrival airports, as well as first and last seen times  
+[Flights](https://www.opdi.aero/flight-list-data.html): the datasets are provided by Open Performance Data Initiative (OPDI) in collaboration with OpenSky Network (OSN), including monthly flight data (from Jan 2022 to Jan 2026) such as flight IDs, ICAO operators, departure and arrival airports, as well as first and last seen times of each flight  
 
 #### 🪙 GDP Data
 [Purchasing Power adjusted GDP per capita](https://ec.europa.eu/eurostat/databrowser/view/sdg_10_10/default/table?lang=en): the datasets are provided by Eurostat, including GDP data (measured in purchasing power standards (PPS)) of European countries from 2015 to 2024    
